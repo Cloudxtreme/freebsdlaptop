@@ -1,0 +1,3 @@
+# FreeBSD Laptop
+## Purpose
+Just some config files I used to get FreeBSD working on my laptop. Not much to see here...
